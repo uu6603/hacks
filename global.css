@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Avenir:wght@500;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Circular+Std:wght@500;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-google-sans: "Google Sans";
+  --font-outfit: Outfit;
+  --font-poppins: Poppins;
+  --font-circular-std: "Circular Std";
+  --font-avenir: Avenir;
+
+  /* font sizes */
+  --font-size-sm: 10px;
+  --font-size-base: 12.5px;
+  --font-size-lg: 12.55px;
+  --font-size-xl: 15px;
+  --font-size-2xl: 17.82px;
+  --font-size-3xl: 17.07px;
+  --font-size-4xl: 17.5px;
+  --font-size-5xl: 20px;
+  --font-size-6xl: 22.91px;
+  --font-size-7xl: 22.5px;
+  --font-size-8xl: 24px;
+  --font-size-9xl: 27.32px;
+  --font-size-10xl: 28.13px;
+  --font-size-11xl: 28px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #f8f8f8;
+  --color-gray-200: #f4f4f4;
+  --color-gray-300: #505e6c;
+  --color-gray-400: #3a4551;
+  --color-gray-500: #222;
+
+  /* Paddings */
+  --padding-6xs: 7.500000476837158px;
+  --padding-5xs: 7.5px;
+  --padding-4xs: 9.375px;
+  --padding-3xs: 10px;
+  --padding-2xs: 12.500000953674316px;
+  --padding-xs: 12.5px;
+  --padding-sm: 12px;
+  --padding-md: 15px;
+  --padding-lg: 17.5px;
+  --padding-xl: 20px;
+  --padding-2xl: 37.5px;
+  --padding-3xl: 40px;
+  --padding-4xl: 46.875px;
+  --padding-5xl: 56.25px;
+
+  /* border radiuses */
+  --br-xs: 2.5px;
+  --br-sm: 5px;
+  --br-md: 8px;
+  --br-lg: 51.25px;
+}

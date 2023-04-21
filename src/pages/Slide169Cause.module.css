@@ -1,0 +1,339 @@
+.rectangleDiv {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .deblisDiv {
+    position: absolute;
+    top: 0;
+    left: 30.74%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .vectorIcon {
+    position: absolute;
+    height: 73.05%;
+    width: 21.94%;
+    top: 12.93%;
+    right: 78.06%;
+    bottom: 14.02%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .groupDiv {
+    position: absolute;
+    height: 88%;
+    width: 89.74%;
+    top: 7.89%;
+    right: 4.63%;
+    bottom: 4.11%;
+    left: 5.63%;
+  }
+  .logoA {
+    cursor: pointer;
+    text-decoration: none;
+    position: absolute;
+    top: 27.5px;
+    left: 62.5px;
+    width: 75.63px;
+    height: 25px;
+    font-size: var(--font-size-3xl);
+    color: inherit;
+  }
+  .image2Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+  .connectWalletDiv {
+    position: absolute;
+    top: 1.87px;
+    left: 28.75px;
+    font-size: var(--font-size-base);
+    font-weight: 500;
+    font-family: var(--font-outfit);
+    color: var(--color-white);
+    text-align: left;
+    display: inline-block;
+  }
+  .groupDiv1 {
+    position: relative;
+    width: 113.75px;
+    height: 20px;
+    flex-shrink: 0;
+  }
+  .frameDiv {
+    border-radius: var(--br-xs);
+    background: linear-gradient(180deg, #16165f, #271462);
+    width: 166.88px;
+    display: flex;
+    flex-direction: column;
+    padding: var(--padding-6xs) var(--padding-2xs);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .frameButton,
+  .searchInput {
+    background-color: transparent;
+    position: absolute;
+    top: 22.5px;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frameButton {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    left: 970px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .searchInput {
+    border: 1.3px solid var(--color-white);
+    right: 335px;
+    border-radius: var(--br-sm);
+    box-sizing: border-box;
+    width: 257.5px;
+    flex-direction: row;
+    padding: var(--padding-6xs) var(--padding-2xs);
+    align-items: center;
+  }
+  .vectorIcon1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1882.5px;
+    height: 948.13px;
+    opacity: 0.7;
+  }
+  .wereHereForACause {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .causeDiv,
+  .groupDiv2 {
+    position: absolute;
+  }
+  .groupDiv2 {
+    top: 113.75px;
+    left: 398.75px;
+    width: 278px;
+    height: 35px;
+  }
+  .causeDiv {
+    top: 111.88px;
+    left: 62.5px;
+    border-radius: var(--br-sm);
+    background-color: var(--color-black);
+    width: 1074.38px;
+    height: 263.13px;
+    overflow: hidden;
+  }
+  
+  
+  .bellRegularIcon,
+  .regularBell,
+  .regularShoppingBasket {
+    position: absolute;
+    overflow: hidden;
+  }
+  .bellRegularIcon {
+    height: 81.25%;
+    width: 72.92%;
+    top: 9.37%;
+    right: 13.54%;
+    bottom: 9.37%;
+    left: 13.54%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .rectangleDiv1 {
+    position: absolute;
+    top: 1090.63px;
+    left: 0;
+    background-color: var(--color-gray-300);
+    width: 1200px;
+    height: 84.38px;
+  }
+  .madeWithByTeamKasukabeD {
+    position: absolute;
+    top: 1146.88px;
+    left: 466.87px;
+    font-size: var(--font-size-base);
+    font-weight: 500;
+    display: inline-block;
+  }
+  .logoDiv {
+    position: absolute;
+    top: 1108.13px;
+    left: 562.5px;
+    width: 75.63px;
+    height: 25px;
+    font-size: var(--font-size-3xl);
+  }
+  .teamKasukabeDefenceGroup,
+  .whatIsDeblis {
+    position: absolute;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .whatIsDeblis {
+    top: 425px;
+    left: 504.37px;
+  }
+  .teamKasukabeDefenceGroup {
+    top: 715px;
+    left: 400px;
+  }
+  .over90Of {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .impairmentWhichCan {
+    margin: 0;
+  }
+  .over90OfPeopleWithDisabi {
+    position: absolute;
+    top: 473.12px;
+    left: 284.38px;
+    font-size: var(--font-size-base);
+    white-space: pre-wrap;
+    text-align: justify;
+    display: inline-block;
+    width: 630.63px;
+  }
+  .frameDiv1,
+  .frameIcon,
+  .homeDiv {
+    position: absolute;
+    overflow: hidden;
+  }
+  .homeDiv {
+    top: 0;
+    left: 0;
+    width: 1200px;
+    height: 1872.5px;
+  }
+  .frameDiv1,
+  .frameIcon {
+    width: 127.3px;
+    height: 127.3px;
+  }
+  .frameDiv1 {
+    top: 2.55px;
+    left: 2.55px;
+    background-color: var(--color-black);
+  }
+  .frameIcon {
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  .productUXDesign,
+  .satyamShuklaDiv {
+    position: absolute;
+    left: 0;
+    display: inline-block;
+  }
+  .satyamShuklaDiv {
+    top: 137.48px;
+    font-weight: 500;
+  }
+  .productUXDesign {
+    top: 166.76px;
+    font-size: var(--font-size-2xl);
+  }
+  .groupDiv5 {
+    position: absolute;
+    top: 0;
+    left: 622.5px;
+    width: 166px;
+    height: 189.76px;
+  }
+  .image2Icon1 {
+    width: 203.76px;
+    height: 203.76px;
+    object-fit: cover;
+  }
+  .frameDiv3,
+  .groupDiv6,
+  .image2Icon1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .frameDiv3 {
+    background-color: var(--color-white);
+    width: 127.3px;
+    height: 127.3px;
+    overflow: hidden;
+  }
+  .groupDiv6 {
+    width: 166px;
+    height: 189.76px;
+  }
+  .photogridphotocollagemakerphIcon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 205.99px;
+    height: 205.99px;
+    object-fit: cover;
+  }
+  .groupDiv7,
+  .image1Icon {
+    position: absolute;
+    top: 0;
+    left: 403.75px;
+    width: 169px;
+    height: 189.76px;
+  }
+  .image1Icon {
+    left: 0;
+    width: 171.29px;
+    height: 171.29px;
+    object-fit: cover;
+  }
+  .groupDiv4,
+  .groupDiv8 {
+    position: absolute;
+    height: 189.76px;
+  }
+  .groupDiv8 {
+    top: 0;
+    left: 216.25px;
+    width: 137px;
+  }
+  .groupDiv4 {
+    top: 781.25px;
+    left: 206.25px;
+    width: 788.5px;
+    font-size: var(--font-size-6xl);
+    font-family: var(--font-google-sans);
+  }
+  .slide169Cause {
+    position: relative;
+    background: linear-gradient(107.56deg, #2d3641, #434f5b);
+    width: 100%;
+    height: 1175px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-10xl);
+    color: var(--color-white);
+    font-family: var(--font-outfit);
+  }
+  

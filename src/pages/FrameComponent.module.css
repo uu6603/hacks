@@ -1,0 +1,80 @@
+.deblisDiv {
+    top: 0;
+    left: 73.32px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .deblisDiv,
+  .groupDiv,
+  .vectorIcon {
+    position: absolute;
+  }
+  .vectorIcon {
+    top: 10px;
+    left: 0;
+    width: 52.32px;
+    height: 56.48px;
+  }
+  .groupDiv {
+    top: 222px;
+    left: 95px;
+    width: 239.32px;
+    height: 76px;
+  }
+  .rectangleDiv,
+  .rectangleDiv1 {
+    position: absolute;
+    top: 0;
+    left: 427px;
+    width: 451px;
+    height: 260px;
+  }
+  .rectangleDiv {
+    background: linear-gradient(
+        139.82deg,
+        #fb0ec9 11.59%,
+        #be3554 33.77%,
+        #6d5dd7 53.2%,
+        #25df90 75.74%
+      ),
+      #d9d9d9;
+  }
+  .rectangleDiv1 {
+    background-color: rgba(102, 102, 102, 0.2);
+    backdrop-filter: blur(86px);
+  }
+  .rectangleDiv2,
+  .vectorIcon1 {
+    position: absolute;
+  }
+  .vectorIcon1 {
+    top: 93.71px;
+    left: 619.32px;
+    width: 67.68px;
+    height: 73.06px;
+  }
+  .rectangleDiv2 {
+    top: 260px;
+    left: 427px;
+    background-color: #f2f2f2;
+    width: 451px;
+    height: 260px;
+  }
+  .vectorIcon2 {
+    position: absolute;
+    top: 353px;
+    left: 619.32px;
+    width: 67.68px;
+    height: 73.06px;
+  }
+  .frameDiv {
+    position: relative;
+    background-color: #1e1e1e;
+    width: 100%;
+    height: 520px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 60px;
+    color: var(--color-white);
+    font-family: var(--font-outfit);
+  }

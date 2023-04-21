@@ -1,0 +1,28 @@
+.vectorIcon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3012px;
+    height: 1517px;
+    opacity: 0.7;
+  }
+  .wereHereForACause {
+    position: absolute;
+    top: 199px;
+    left: 416px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .frameDiv {
+    position: relative;
+    border-radius: var(--br-md);
+    background-color: var(--color-black);
+    width: 100%;
+    height: 828px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 90px;
+    color: var(--color-white);
+    font-family: var(--font-outfit);
+  }
+  
